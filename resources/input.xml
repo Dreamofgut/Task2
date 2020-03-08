@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clients>
+    <client name = "Ivanov">
+        <account0 ammount = "50" isLocked = "false"></account0>
+        <account0 ammount = "680" isLocked = "false"></account0>
+        <account0 ammount = "-40" isLocked = "true"></account0>
+    </client>
+    <client name = "Petrov">
+        <account1 ammount = "550" isLocked="false"></account1>
+    </client>
+</clients>
